@@ -1,3 +1,0 @@
-This is branch 2
-
-Another commit from branch 2

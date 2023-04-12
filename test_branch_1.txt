@@ -1,3 +1,0 @@
-test branch_1
-
-Another test on branch 1
